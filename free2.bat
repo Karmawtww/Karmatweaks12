@@ -14,81 +14,76 @@ echo ▒ ▒▒ ▓▒▒▒   ▓▒█░░ ▒▓ ░▒▓░░ ▒░   �
 echo ░ ░▒ ▒░ ▒   ▒▒ ░  ░▒ ░ ▒░░  ░      ░  ▒   ▒▒ ░       ░      ▒ ░ ░   ░ ░  ░ ▒   ▒▒ ░░ ░▒ ▒░░ ░▒  ░ ░
 echo ░ ░░ ░  ░   ▒     ░░   ░ ░      ░     ░   ▒        ░        ░   ░     ░    ░   ▒   ░ ░░ ░ ░  ░  ░  
 echo ░  ░        ░  ░   ░            ░         ░  ░                ░       ░  ░     ░  ░░  ░         ░
-cls
 timeout 3 >nul
 echo ...
-cls
 timeout 3 >nul
+cls
 echo ...
-cls
 timeout 3 >nul
+cls
 echo ...
-cls
 timeout 3 >nul
+cls
 echo ...
-cls
 timeout 3 >nul
-cls 
+cls
 timeout 3 >nul
 echo The Tweaks Have Succesfully Started!
-cls
 timeout 3 >nul
+cls
 echo ...
-cls
 timeout 3 >nul
+cls
 echo Waiting on less latency feature...
-cls
 timeout 3 >nul
+cls
 echo ...
-cls
 timeout 3 >nul
-echo Success!
-echo Success!
-echo Success!
-echo Success!
-echo Success!
 cls
+echo Success!
+echo Success!
+echo Success!
+echo Success!
+echo Success!
 timeout 3 >nul
+cls
 echo ...
-cls
 timeout 3 >nul
+cls
 echo Adding all other latency remover's...
-cls
 timeout 3 >nul
+cls
 echo ...
-cls
 timeout 3 >nul
-echo Added!
-echo Added!
-echo Added!
-echo Added!
-echo Added!
 cls
+echo Added!
+echo Added!
+echo Added!
+echo Added!
+echo Added!
 timeout 3 >nul
+cls
 echo ...
-cls
 timeout 3 >nul
+cls
 echo Optimizing network usage...
-cls
 timeout 3 >nul
-echo ...
 cls
+echo Optimized!
 timeout 3 >nul
+cls
 echo Success!
-cls
 timeout 3 >nul
-echo ...
 cls
 echo Your PC Is Finished!
+timeout 3 >nul
 cls
+echo ...
 timeout 3 >nul
 echo ...
-cls
 timeout 3 >nul
-echo ...
 cls
-timeout 3 >nul
 start https://github.com/Karmawtww/Karmatweaks12/tree/main
-echo Press any key to close the tweaking software. And also consider staring the github.
+echo Press any key to close the tweaking software. Also, please consider staring the github.
 pause >nul
 exit
