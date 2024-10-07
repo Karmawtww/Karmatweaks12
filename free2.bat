@@ -88,7 +88,7 @@ timeout 3 >nul
 echo ...
 cls
 timeout 3 >nul
-start
+start https://github.com/Karmawtww/Karmatweaks12/tree/main
 echo Press any key to close the tweaking software. And also consider staring the github.
 pause >nul
 exit
